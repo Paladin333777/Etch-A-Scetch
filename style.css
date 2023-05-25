@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+    max-width: 960px;
+    margin: auto;
+}
+
+.box {
+    background-color: black;
+}
